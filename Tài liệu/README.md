@@ -1,4 +1,4 @@
-﻿# Chương 12 – Persisting Data: Lưu dữ liệu trong Android
+﻿# Chương 12 – Persisting Data
 
 **Môn học:** Lập trình thiết bị di động  
 **Sinh viên:** Bùi Ngọc Trang  
@@ -19,7 +19,7 @@
 ## Cấu trúc bài nộp
 
 - **[Source Code](../Source%20Code/):** mã nguồn ứng dụng Android, viết bằng Kotlin và Jetpack Compose.
-- **Tài liệu:** README, slide thuyết trình và video demo khi được bổ sung.
+- **Tài liệu:** README, slide thuyết trình và video demo
 
 ## Cách chạy ứng dụng
 
