@@ -34,3 +34,8 @@
 3. Đóng ứng dụng khỏi danh sách ứng dụng gần đây rồi mở lại. Kiểm tra giao diện vẫn tối và nội dung ghi chú vẫn còn.
 4. Bấm **Xuất bản sao**, chọn thư mục **Tải xuống** và lưu với tên `ghichu.txt`.
 5. Mở ứng dụng **Tệp → Tải xuống → ghichu.txt**. Nếu đọc được dòng `Làm bài tập chương 12` thì bản sao đã được xuất thành công.
+
+## Video demo
+
+[Xem video demo](./demo.mp4)
+
